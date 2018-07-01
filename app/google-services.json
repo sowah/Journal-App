@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1079863386325",
+    "firebase_url": "https://journal-app-ad35a.firebaseio.com",
+    "project_id": "journal-app-ad35a",
+    "storage_bucket": "journal-app-ad35a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079863386325:android:24f3590ef86ee186",
+        "android_client_info": {
+          "package_name": "com.example.apostleemmanuel.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079863386325-hia8ikvjasr6vofe0gn7j2pvvk7mk4to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSxwl4A3Hrulylch33cTrntYXXPzkrbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
